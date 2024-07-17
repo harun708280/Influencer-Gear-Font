@@ -124,7 +124,7 @@ hr{
     flex-direction: column;
     justify-items: center;
     text-align: center;
-    margin-left: 20px;
+   
 
   }
 
@@ -135,5 +135,8 @@ hr{
     grid-template-columns: repeat(4,1fr);
     gap: 20px;
     justify-items: center;
+  }
+  .sponser-conteinar img{
+    width: 100%;
   }
 }
